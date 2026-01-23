@@ -24,7 +24,7 @@ Product Engineer at <img alt="PostHog" height="12" width="12" src="https://solom
 
 ## Templates
 - 🚀 [template-tanstack-start](https://github.com/richardsolomou/template-tanstack-start): Full-stack starter with TanStack Start, featuring SSR, file-based routing, and modern tooling.
-- 🚀⚡ [template-tanstack-start-convex](https://github.com/richardsolomou/template-tanstack-start-convex): Full-stack TanStack Start template with Convex for real-time sync, SSR, and optimistic updates.
+- 🚀⚡ [template-tanstack-start-convex](https://github.com/richardsolomou/template-tanstack-start-convex): TanStack Start template with Convex for real-time sync, SSR, and optimistic updates.
 - ▲ [template-nextjs](https://github.com/richardsolomou/template-nextjs): Full-stack Next.js 16 template using the App Router, SSR, and modern best practices.
 - ⚛️ [template-react-library](https://github.com/richardsolomou/template-react-library): Production-ready React library template with TypeScript, Storybook, testing, and optimized builds.
 - ▲⚡ [template-nextjs-convex](https://github.com/richardsolomou/template-nextjs-convex): Next.js 16 + Convex full-stack template with SSR, real-time data, and optimistic UI.
