@@ -14,9 +14,19 @@ Product Engineer at <img alt="PostHog" height="12" width="12" src="https://solom
 ## Projects
 
 - 🧙‍♂️ [tro.gg](https://tro.gg): AI-powered TTRPG campaign manager that turns messy session notes into an organized, living campaign wiki.
+- 🦔 [hedgehog-mode-anywhere](https://github.com/richardsolomou/hedgehog-mode-anywhere): Browser extension that brings PostHog's hedgehog mascot to any website.
 - 🦔 [hedgehog-facts](https://hedgehog-facts.ras.sh): Tiny app for tiny hedgehog facts.
 - 🗺️ [local-quest](https://local-quest.ras.sh): Local-first AI text adventures using your browser's built-in AI. Infinite worlds, entirely on-device.
 - 💬 [local-chat](https://local-chat.ras.sh): Local-first AI chat running entirely in your browser. No servers, full privacy.
 - ✂️ [remove-bg](https://remove-bg.ras.sh): AI background removal, fully client-side. No uploads, no paywalls.
 - 🖼️ [icon-gen](https://icon-gen.ras.sh): Generate all essential icon sizes for web and mobile from a single image.
 - 🎨 [img-to-palette](https://img-to-palette.ras.sh): Extract color palettes from images with nearest Tailwind color matching.
+
+## Templates
+- 🚀 [template-tanstack-start](https://github.com/richardsolomou/template-tanstack-start): Full-stack starter with TanStack Start, featuring SSR, file-based routing, and modern tooling.
+- 🚀⚡ [template-tanstack-start-convex](https://github.com/richardsolomou/template-tanstack-start-convex): Full-stack TanStack Start template with Convex for real-time sync, SSR, and optimistic updates.
+- ▲ [template-nextjs](https://github.com/richardsolomou/template-nextjs): Full-stack Next.js 16 template using the App Router, SSR, and modern best practices.
+- ⚛️ [template-react-library](https://github.com/richardsolomou/template-react-library): Production-ready React library template with TypeScript, Storybook, testing, and optimized builds.
+- ▲⚡ [template-nextjs-convex](https://github.com/richardsolomou/template-nextjs-convex): Next.js 16 + Convex full-stack template with SSR, real-time data, and optimistic UI.
+- 📦 [template-node-library](https://github.com/richardsolomou/template-node-library): Node.js library starter with TypeScript, tests, and modern build tooling.
+- ⚡📦 [template-convex-component](https://github.com/richardsolomou/template-convex-component): Convex component template for building sandboxed, type-safe backend modules.
