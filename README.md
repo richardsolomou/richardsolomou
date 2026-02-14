@@ -14,8 +14,6 @@ Product Engineer at <img alt="PostHog" height="12" width="12" src="https://solom
 ## Projects
 
 - 🧙‍♂️ [tro.gg](https://tro.gg): AI-powered TTRPG campaign manager that turns messy session notes into an organized, living campaign wiki.
-- 🦔 [hedgehog-mode-anywhere](https://github.com/richardsolomou/hedgehog-mode-anywhere): Browser extension that brings PostHog's hedgehog mascot to any website.
-- 🦔 [hedgehog-facts](https://hedgehog-facts.ras.sh): Tiny app for tiny hedgehog facts.
 - 🗺️ [local-quest](https://local-quest.ras.sh): Local-first AI text adventures using your browser's built-in AI. Infinite worlds, entirely on-device.
 - 💬 [local-chat](https://local-chat.ras.sh): Local-first AI chat running entirely in your browser. No servers, full privacy.
 - ✂️ [remove-bg](https://remove-bg.ras.sh): AI background removal, fully client-side. No uploads, no paywalls.
