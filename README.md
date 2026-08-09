@@ -4,16 +4,16 @@ Product Engineer at <img alt="PostHog" height="12" width="12" src="https://solom
 
 ## Projects
 
-- ⚡ [stl.quest](https://stl.quest): A private 3D-print request and production queue for resin and filament printers.
-- 🧲 [basekit](https://basekit.ras.sh): Printable miniature bases sized, magnetised, and marked exactly how you need them.
-- ⚔️ [praetorium.gg](https://praetorium.gg): Build a Warhammer 40,000 army list, then track the game live from both players' phones.
-- 🎖️ [sealed-lists](https://sealed-lists.ras.sh): Sealed roster list submission, reveal every Warhammer 40,000 army list at the same time.
-- 🧌 [tro.gg](https://tro.gg): A tiny multiplayer browser game, built in public with PostHog Code and powered by PostHog.
-- ✂️ [remove-bg](https://remove-bg.ras.sh): AI background removal, fully client-side. No uploads, no paywalls.
-- 🎨 [img-to-palette](https://img-to-palette.ras.sh): Extract color palettes from images with nearest Tailwind color matching.
-- 🖼️ [icon-gen](https://icon-gen.ras.sh): Generate all essential icon sizes for web and mobile from a single image.
-- 💬 [local-chat](https://local-chat.ras.sh): Local-first AI chat running entirely in your browser. No servers, full privacy.
-- 🗺️ [local-quest](https://local-quest.ras.sh): Local-first AI text adventures using your browser's built-in AI. Infinite worlds, entirely on-device.
+- ⚡ [stl.quest](https://github.com/richardsolomou/stl.quest): A private 3D-print request and production queue for resin and filament printers.
+- 🧲 [basekit](https://github.com/richardsolomou/basekit): Printable miniature bases sized, magnetised, and marked exactly how you need them.
+- ⚔️ [praetorium.gg](https://github.com/richardsolomou/praetorium.gg): Build a Warhammer 40,000 army list, then track the game live from both players' phones.
+- 🎖️ [sealed-lists](https://github.com/richardsolomou/sealed-lists): Sealed roster list submission, reveal every Warhammer 40,000 army list at the same time.
+- 🧌 [tro.gg](https://github.com/richardsolomou/tro.gg): A tiny multiplayer browser game, built in public with PostHog Code and powered by PostHog.
+- ✂️ [remove-bg](https://github.com/richardsolomou/remove-bg): AI background removal, fully client-side. No uploads, no paywalls.
+- 🎨 [img-to-palette](https://github.com/richardsolomou/img-to-palette): Extract color palettes from images with nearest Tailwind color matching.
+- 🖼️ [icon-gen](https://github.com/richardsolomou/icon-gen): Generate all essential icon sizes for web and mobile from a single image.
+- 💬 [local-chat](https://github.com/richardsolomou/local-chat): Local-first AI chat running entirely in your browser. No servers, full privacy.
+- 🗺️ [local-quest](https://github.com/richardsolomou/local-quest): Local-first AI text adventures using your browser's built-in AI. Infinite worlds, entirely on-device.
 
 ## Packages
 
