@@ -17,7 +17,7 @@ Product Engineer at <img alt="PostHog" height="12" width="12" src="https://solom
 
 ## Packages
 
-- 🧱 [ras-stack](https://github.com/richardsolomou/ras-stack): Composable full-stack primitives shared across my applications.
+- 🧱 [ras-stack](https://github.com/richardsolomou/ras-stack): A practical TypeScript stack with strong defaults and room to make it yours.
 
 ## Templates
 
