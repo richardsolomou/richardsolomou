@@ -5,7 +5,7 @@ Product Engineer at <img alt="PostHog" height="12" width="12" src="https://solom
 ## Projects
 
 - ⚡ [stl.quest](https://github.com/richardsolomou/stl.quest): A private 3D-print request and production queue for resin and filament printers.
-- ⚔️ [praetorium.gg](https://github.com/richardsolomou/praetorium.gg): ⚔️ Build a Warhammer 40,000 army list. Track the battle live from each player's phone.
+- ⚔️ [praetorium.gg](https://github.com/richardsolomou/praetorium.gg): Build a Warhammer 40,000 army list. Track the battle live from each player's phone.
 - 🧲 [basekit](https://github.com/richardsolomou/basekit): Printable miniature bases sized, magnetised, and marked exactly how you need them.
 - 🎖️ [sealed-lists](https://github.com/richardsolomou/sealed-lists): Sealed roster list submission, reveal every Warhammer 40,000 army list at the same time.
 - 🧌 [tro.gg](https://github.com/richardsolomou/tro.gg): A tiny multiplayer browser game, built in public with PostHog Code and powered by PostHog.
