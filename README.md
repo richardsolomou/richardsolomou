@@ -4,15 +4,12 @@ Product Engineer at <img alt="PostHog" height="12" width="12" src="https://solom
 
 ## Projects
 
-- ⚡ [stl.quest](https://github.com/richardsolomou/stl.quest): A private 3D-print request and production queue for resin and filament printers.
 - ⚔️ [praetorium.gg](https://github.com/richardsolomou/praetorium.gg): Build a Warhammer 40,000 army list. Track the battle live from each player's phone.
+- ⚡ [stl.quest](https://github.com/richardsolomou/stl.quest): A private 3D-print request and production queue for resin and filament printers.
 - 🧲 [basekit](https://github.com/richardsolomou/basekit): Printable miniature bases sized, magnetised, and marked exactly how you need them.
-- 🧌 [tro.gg](https://github.com/richardsolomou/tro.gg): A tiny multiplayer browser game, built in public with PostHog Code and powered by PostHog.
 - ✂️ [remove-bg](https://github.com/richardsolomou/remove-bg): AI background removal, fully client-side. No uploads, no paywalls.
 - 🎨 [img-to-palette](https://github.com/richardsolomou/img-to-palette): Extract color palettes from images with nearest Tailwind color matching.
 - 🖼️ [icon-gen](https://github.com/richardsolomou/icon-gen): Generate all essential icon sizes for web and mobile from a single image.
-- 💬 [local-chat](https://github.com/richardsolomou/local-chat): Local-first AI chat running entirely in your browser. No servers, full privacy.
-- 🗺️ [local-quest](https://github.com/richardsolomou/local-quest): Local-first AI text adventures using your browser's built-in AI. Infinite worlds, entirely on-device.
 
 ## Packages
 
