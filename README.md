@@ -6,7 +6,7 @@ Product Engineer at <img alt="PostHog" height="12" width="12" src="https://solom
 
 - ⚔️ [praetorium.gg](https://github.com/richardsolomou/praetorium.gg): Build a Warhammer 40,000 army list. Track the battle live from each player's phone.
 - ⚡ [stl.quest](https://github.com/richardsolomou/stl.quest): A private 3D-print request and production queue for resin and filament printers.
-- 🧲 [basekit](https://github.com/richardsolomou/basekit): Printable miniature bases sized, magnetised, and marked exactly how you need them.
+- 🧲 [hobbykit.app](https://github.com/richardsolomou/hobbykit.app): Printable bases, trays, holders, and paint racks for the tabletop hobby.
 - ✂️ [remove-bg](https://github.com/richardsolomou/remove-bg): AI background removal, fully client-side. No uploads, no paywalls.
 - 🎨 [img-to-palette](https://github.com/richardsolomou/img-to-palette): Extract color palettes from images with nearest Tailwind color matching.
 - 🖼️ [icon-gen](https://github.com/richardsolomou/icon-gen): Generate all essential icon sizes for web and mobile from a single image.
